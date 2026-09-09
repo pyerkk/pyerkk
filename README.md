@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://i.pinimg.com/originals/29/53/46/295346b02cb651d8ec3e6996c143eb7d.gif" width="400" title="Описание">
 </p>
 <p align="center">
